@@ -1,6 +1,8 @@
 {
   "name": "react-meetup",
   "version": "0.1.0",
+  "author": "Steven Gragg",
+  "description": "A ReactJs App for Social Meetups",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
