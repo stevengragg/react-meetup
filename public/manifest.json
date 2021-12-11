@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "MeetUp",
+  "name": "MeetUp ReactJs app by Steven Gragg",
   "icons": [
     {
       "src": "favicon.ico",
